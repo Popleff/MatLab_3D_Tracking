@@ -1,6 +1,6 @@
 %% Main file for 3D partilce tracking
 clc, clear all, close all;
-
+%test for github
 %% Read Magnetic and create Field Interpolation Functions 
 tic
 
